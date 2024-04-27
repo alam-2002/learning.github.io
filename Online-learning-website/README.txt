@@ -69,5 +69,13 @@ Step 6 - Go to your browser and hit http://localhost:8080/
 
 for any queries feel free to contact me
 alamgirmulla17@gmail.com
+-------------------------------------------------------------------------------
+Thank you for joining us on this exciting adventure!
+This Project is Created by 
 
+Arfiya Shaikh - arfiya.shaikh01@gmail.com
+Shaheen Angadgiri - shaheenangadgiri@gmail.com
+Alamgir Mulla - alamgirmulla17@gmail.com
+Yaseen Lone - yasinlone9@gmail.com
+Rushikesh Polekar - shiv.polekar3333@gmail.com
 
